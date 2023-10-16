@@ -1,0 +1,55 @@
+[{
+  "title": "$:/language",
+  "text": "$:/languages/zh-Hans",
+  "type": "text/vnd.tiddlywiki"
+}, {
+  "title": "$:/SiteTitle",
+  "text": "爱阅读",
+  "type": "text/vnd.tiddlywiki"
+}, {
+  "text": "show",
+  "title": "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-journal",
+  "type": "text/vnd.tiddlywiki"
+}, {
+  "text": "hide",
+  "title": "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/advanced-search",
+  "type": "text/vnd.tiddlywiki",
+  "bag": "default"
+}, {
+  "text": "<div class=\"tc-table-of-contents\">\n<<toc-selective-expandable \"$:/TableOfContents\">>\n</div>\n",
+  "title": "$:/TableOfContents",
+  "tags": "$:/tags/SideBar",
+  "bag": "default",
+  "type": "text/vnd.tiddlywiki",
+  "caption": "{{$:/language/SideBar/TableOfContents/Caption}}",
+  "list-before": "$:/core/ui/SideBar/Open"
+}, {
+  "title": "$:/language/SideBar/TableOfContents/Caption",
+  "text": "目录",
+  "type": "text/vnd.tiddlywiki"
+}, {
+  "title": "$:/config/DataJsonFileName",
+  "text": "notes.json",
+  "type": "text/vnd.tiddlywiki"
+}, {
+  "title": "$:/config/tiddlyweb/host",
+  "type": "text/vnd.tiddlywiki",
+  "text": "$protocol$//$host$/read/"
+}, {
+  "title": "$:/view",
+  "text": "pop",
+  "type": "text/vnd.tiddlywiki",
+  "bag": "default"
+}, {
+  "text": "show",
+  "title": "$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-here",
+  "type": "text/vnd.tiddlywiki"
+}, {
+  "title": "$:/tags/ViewToolbar",
+  "type": "text/vnd.tiddlywiki",
+  "list": "$:/core/ui/Buttons/new-here $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/info $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/export-tiddler $:/core/ui/Buttons/edit $:/core/ui/Buttons/delete $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/core/ui/Buttons/close $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold $:/core/ui/Buttons/fold-bar"
+}, {
+  "title": "$:/config/DefaultSidebarTab",
+  "text": "$:/TableOfContents",
+  "type": "text/vnd.tiddlywiki"
+}]

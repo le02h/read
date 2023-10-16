@@ -1,0 +1,7 @@
+name: ROOT
+title: 爱玩语言
+version: ~
+start_page: index.adoc
+nav:
+- modules/ROOT/nav.adoc
+- modules/go/nav.adoc

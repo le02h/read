@@ -1,0 +1,16 @@
+site:
+  title: 歪玩语言
+  # url: https://le02h.github.io/PL
+  robots: allow
+  start_page: ROOT::index.adoc
+  keys:
+    google_analytics:
+content:
+  sources:
+    - url: ./
+      branches: HEAD
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+

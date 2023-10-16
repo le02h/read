@@ -1,0 +1,20 @@
+{
+  "name": "pl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "antora site.yml",
+    "start": "http-server build/site"
+  },
+  "keywords": [],
+  "author": "Leonardo Zhang",
+  "license": "ISC",
+  "devDependencies": {
+    "@antora/cli": "3.1.4",
+    "@antora/site-generator": "3.1.4"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}

@@ -7,10 +7,10 @@
         "tiddlywiki/highlight"
     ],
     "themes": [
+        "tiddlywiki/snowwhite",
         "tiddlywiki/vanilla",
         "tiddlywiki/centralised",
-        "tiddlywiki/heavier",
-        "tiddlywiki/readonly"
+        "tiddlywiki/heavier"
     ],
     "languages": [
         "zh-Hans"

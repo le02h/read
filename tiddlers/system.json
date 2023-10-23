@@ -37,7 +37,7 @@
   "text": "$protocol$//$host$/read/"
 }, {
   "title": "$:/view",
-  "text": "pop",
+  "text": "stacked",
   "type": "text/vnd.tiddlywiki",
   "bag": "default"
 }, {
@@ -51,5 +51,13 @@
 }, {
   "title": "$:/config/DefaultSidebarTab",
   "text": "$:/TableOfContents",
+  "type": "text/vnd.tiddlywiki"
+}, {
+  "title": "$:/DefaultTiddlers",
+  "text": "[[最近阅读]]",
+  "type": "text/vnd.tiddlywiki"
+}, {
+  "text": "show",
+  "title": "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home",
   "type": "text/vnd.tiddlywiki"
 }]
